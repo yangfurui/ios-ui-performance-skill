@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS 页面流畅度优化"
+  short_description: "定位、诊断并优化 UIKit、SwiftUI 页面滚动、动画和渲染卡顿问题"
+  default_prompt: "Use $optimize-ios-ui-performance to diagnose this UIKit or SwiftUI page hitch, propose the smallest safe fix, and explain how to verify it."
